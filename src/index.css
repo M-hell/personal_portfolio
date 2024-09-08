@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.edited-w-p{
+  width: 50rem;
+}
+.edited-p-w{
+  width: 80%;
+}
