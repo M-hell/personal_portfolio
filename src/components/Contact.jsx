@@ -10,8 +10,8 @@ function Contact() {
   let sendEmail = () => {
     Email.send({
       Host: "smtp.elasticemail.com",
-      Username: 'sarkarsamrat16112004.1@gmail.com',
-      Password: 'F0C673A67D99511807B3A0A67C13080D7206',
+      Username: 'sarkarsamrat16112004@gmail.com',
+      Password: '14A9885E6A431A6389E30F7A46BA767E1CB4',
       To: 'sarkarsamrat16112004@gmail.com',
       From: 'sarkarsamrat16112004@gmail.com',
       Subject: "Enquiry on hire me",
