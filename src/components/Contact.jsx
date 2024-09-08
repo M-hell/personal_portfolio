@@ -12,8 +12,8 @@ function Contact() {
       Host: "smtp.elasticemail.com",
       Username: 'sarkarsamrat16112004.1@gmail.com',
       Password: 'F0C673A67D99511807B3A0A67C13080D7206',
-      To: 'sarkarsamrat16112004.1@gmail.com',
-      From: 'sarkarsamrat16112004.1@gmail.com',
+      To: 'sarkarsamrat16112004@gmail.com',
+      From: 'sarkarsamrat16112004@gmail.com',
       Subject: "Enquiry on hire me",
       Body: `name- ${name}, email- ${email}, number- ${number}, description- ${description}`
     }).then(
