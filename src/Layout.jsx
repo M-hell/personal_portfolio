@@ -24,7 +24,7 @@ function Layout() {
     <ThemeProvider value={{themeMode, lightTheme, darkTheme}}>
     <Header/>
     <Outlet />
-    <Footer />
+
     </ThemeProvider>
   )
 }
