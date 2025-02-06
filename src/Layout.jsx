@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { Outlet } from 'react-router-dom'
 import { ThemeProvider } from './contexts/theme'
 import Header from './components/Header'
-import Footer from './components/Footer'
+
 
 function Layout() {
   const [themeMode, setThemeMode] = useState("dark")
